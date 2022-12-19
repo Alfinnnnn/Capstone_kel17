@@ -6,6 +6,6 @@
 #### Fiky Ari Wijaya (3108318/Universitas Pancasila)
 #### Surya Alfin Maoludin (3390843/Universitas Pendidikan Indonesia)
 
-Laporan Capstone Project
+<a hrfef ="https://github.com/Alfinnnnn/Capstone_kel17/tree/main/LaporanCapstone"> <strong> Laporan Capstone Project </strong> </a> <br>
 Pitching Video
 Demo Video
