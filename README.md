@@ -6,7 +6,7 @@
 #### Surya Alfin Maoludin (3390843/Universitas Pendidikan Indonesia)
 ##
 ##### Laporan Capstone Project https://github.com/Alfinnnnn/Capstone_kel17/tree/main/LaporanCapstone
-##### Pitching Video https://youtu.be/Q0ybMOoeqzA
+##### Pitching Video https://youtu.be/nZ2R7Outk5w
 ##### Demo Video https://youtu.be/_pD6I8LatfQ
 # Lampiran
 <Strong>Pipeline Model Machine Learning</Strong>
